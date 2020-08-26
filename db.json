@@ -1,5 +1,7 @@
-[
-  "Fiesta",
-  "Focus",
-  "Mustang"
-]
+{
+  "GroupMembers": [
+        "Fiesta",
+        "Focus",
+        "Mustang"
+      ]
+}
