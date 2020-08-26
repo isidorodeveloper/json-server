@@ -1,7 +1,11 @@
 {
-  "GroupMembers": [
-        "Fiesta",
-        "Focus",
-        "Mustang"
+  "Users": {
+    "User": {
+	  "GroupMembers": [
+        "738284",
+        "730369",
+        "738043"
       ]
+    }
+  }
 }
