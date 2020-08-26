@@ -1,6 +1,5 @@
 {
   "Users": {
-    "User": {
       "GroupMembers": [
         {
           "Functional": "738284"
@@ -12,6 +11,5 @@
           "Functional": "738043"
         }
       ]
-    }
   }
 }
