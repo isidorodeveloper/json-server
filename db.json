@@ -1,11 +1,5 @@
-{
-  "GroupMembers": [
-    {
-      "Functional": [
-        "Fiesta",
-        "Focus",
-        "Mustang"
-      ]
-    }
-  ]
-}
+[
+  "Fiesta",
+  "Focus",
+  "Mustang"
+]
