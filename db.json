@@ -1,1 +1,17 @@
-
+{
+  "Users": {
+    "User": {
+      "GroupMembers": [
+        {
+          "Functional": "738284"
+        },
+        {
+          "Functional": "730369"
+        },
+        {
+          "Functional": "738043"
+        }
+      ]
+    }
+  }
+}
