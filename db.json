@@ -1,35 +1,28 @@
 {
-  "Users": {
-    "123456789": [
-      {
-        "Name": "completeName",
-        "Value": "João da Silva"
-      },
-      {
-        "Name": "userName",
-        "Value": "738284"
-      },
-      {
-        "Name": "email",
-        "Value": "teste@uol.com.br"
-      },
-      {
-        "Name": "role",
-        "Value": "GS_G_UK_SOLICITANTE"
-      },
-      {
-        "Name": "role",
-        "Value": "GS_G_UK_APROVADOR"
-      },
-      {
-        "Name": "role",
-        "Value": "GS_G_UK_SUSTENTACAO"
-      }
-    ]
-  },
-  "GroupMembers": [
-    "738284",
-    "730369",
-    "738043"
+  "123456789": [
+    {
+      "Name": "completeName",
+      "Value": "João da Silva"
+    },
+    {
+      "Name": "userName",
+      "Value": "738284"
+    },
+    {
+      "Name": "email",
+      "Value": "teste@uol.com.br"
+    },
+    {
+      "Name": "role",
+      "Value": "GS_G_UK_SOLICITANTE"
+    },
+    {
+      "Name": "role",
+      "Value": "GS_G_UK_APROVADOR"
+    },
+    {
+      "Name": "role",
+      "Value": "GS_G_UK_SUSTENTACAO"
+    }
   ]
 }
