@@ -1,28 +1,3 @@
 {
-  "123456789": [
-    {
-      "Name": "completeName",
-      "Value": "João da Silva"
-    },
-    {
-      "Name": "userName",
-      "Value": "738284"
-    },
-    {
-      "Name": "email",
-      "Value": "teste@uol.com.br"
-    },
-    {
-      "Name": "role",
-      "Value": "GS_G_UK_SOLICITANTE"
-    },
-    {
-      "Name": "role",
-      "Value": "GS_G_UK_APROVADOR"
-    },
-    {
-      "Name": "role",
-      "Value": "GS_G_UK_SUSTENTACAO"
-    }
-  ]
+  "Resultado": {"Erro": "false", "Message": "Proposta Inserida com sucesso - MOCK"}
 }
